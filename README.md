@@ -41,8 +41,6 @@ Key services:
 - Terraform (IaC)
 - Streamlit (interactive demo UI)
 
-> Note: yes — it's common and appropriate to list the cloud and managed services (AWS, Amazon Bedrock, Aurora, S3, etc.) as part of the "stack" for the project. This helps readers understand platform dependencies and any potential costs/permissions required.
-
 ## Certification
 
 This project was built as part of a certification exercise — see the badge below:
