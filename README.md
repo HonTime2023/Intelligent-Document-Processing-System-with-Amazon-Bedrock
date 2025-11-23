@@ -45,7 +45,7 @@ Key services:
 
 This project was built as part of a certification exercise — see the badge below:
 
-![Certification Badge](Screenshots/Certification Badge 9 (1).webp)
+![Certification Badge]([Screenshots/Certification Badge 9 (1).webp](https://github.com/HonTime2023/Intelligent-Document-Processing-System-with-Amazon-Bedrock/blob/main/Screenshots/Certification%20Badge%209%20(1).webp))
 
 
 **Table of contents**
