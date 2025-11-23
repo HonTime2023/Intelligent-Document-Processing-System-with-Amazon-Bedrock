@@ -45,9 +45,7 @@ Key services:
 
 This project was built as part of a certification exercise — see the badge below:
 
-<p align="center">
-  <img src="Screenshots/certification-badge.webp" alt="Certification Badge" width="240" />
-</p>
+<img src="Screenshots/certification-badge.webp" alt="Certification Badge" width="240" />
 
 
 **Table of contents**
